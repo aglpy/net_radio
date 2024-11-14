@@ -51,7 +51,7 @@ Connect the EC2 Rotary Encoder to ESP32 and Speaker as follows:
 - **Side pin 1**
   - Connect to **D4** pin on the ESP32.
 - **Side pin 2**
-  - Connect to **D15** pin on the ESP32.
+  - Connect to **D16** pin on the ESP32.
 
 ## Switch Connections
 

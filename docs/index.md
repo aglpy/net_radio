@@ -20,7 +20,7 @@ Refer to the [schematic.pdf](../hardware/schematics/Net_Radio_schematic.pdf) fil
 ### Assembly
 1. Connect the Speaker to the Amplifier output (+  -).
 2. Connect the Amplifier to the ESP32 (GND to GND, Vin to +3.3V, Din to D22, GAIN to D25, BCLK to D26 and LRC to D27).
-3. Connect middle pin from EC2 to GND and the side pins to D4 and D15 of ESP32.
+3. Connect middle pin from EC2 to GND and the side pins to D4 and D16 of ESP32.
 4. Connect the ESP32 to power supply or TP4056 with battery with switch in the middle.
 
 ## Programming
