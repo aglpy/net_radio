@@ -1,0 +1,5 @@
+# Requirements for the ESP32 Net Radio Project
+
+Library: WiFi
+Version: 1.2.7
+URL: https://docs.arduino.cc/libraries/wifi/
